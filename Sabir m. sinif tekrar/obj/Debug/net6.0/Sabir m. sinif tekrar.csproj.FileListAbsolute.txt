@@ -1,0 +1,14 @@
+C:\Users\99455\source\repos\Sabir m. sinif tekrar\Sabir m. sinif tekrar\bin\Debug\net6.0\Sabir m. sinif tekrar.exe
+C:\Users\99455\source\repos\Sabir m. sinif tekrar\Sabir m. sinif tekrar\bin\Debug\net6.0\Sabir m. sinif tekrar.deps.json
+C:\Users\99455\source\repos\Sabir m. sinif tekrar\Sabir m. sinif tekrar\bin\Debug\net6.0\Sabir m. sinif tekrar.runtimeconfig.json
+C:\Users\99455\source\repos\Sabir m. sinif tekrar\Sabir m. sinif tekrar\bin\Debug\net6.0\Sabir m. sinif tekrar.dll
+C:\Users\99455\source\repos\Sabir m. sinif tekrar\Sabir m. sinif tekrar\bin\Debug\net6.0\Sabir m. sinif tekrar.pdb
+C:\Users\99455\source\repos\Sabir m. sinif tekrar\Sabir m. sinif tekrar\obj\Debug\net6.0\Sabir m. sinif tekrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\source\repos\Sabir m. sinif tekrar\Sabir m. sinif tekrar\obj\Debug\net6.0\Sabir m. sinif tekrar.AssemblyInfoInputs.cache
+C:\Users\99455\source\repos\Sabir m. sinif tekrar\Sabir m. sinif tekrar\obj\Debug\net6.0\Sabir m. sinif tekrar.AssemblyInfo.cs
+C:\Users\99455\source\repos\Sabir m. sinif tekrar\Sabir m. sinif tekrar\obj\Debug\net6.0\Sabir m. sinif tekrar.csproj.CoreCompileInputs.cache
+C:\Users\99455\source\repos\Sabir m. sinif tekrar\Sabir m. sinif tekrar\obj\Debug\net6.0\Sabir m. sinif tekrar.dll
+C:\Users\99455\source\repos\Sabir m. sinif tekrar\Sabir m. sinif tekrar\obj\Debug\net6.0\refint\Sabir m. sinif tekrar.dll
+C:\Users\99455\source\repos\Sabir m. sinif tekrar\Sabir m. sinif tekrar\obj\Debug\net6.0\Sabir m. sinif tekrar.pdb
+C:\Users\99455\source\repos\Sabir m. sinif tekrar\Sabir m. sinif tekrar\obj\Debug\net6.0\Sabir m. sinif tekrar.genruntimeconfig.cache
+C:\Users\99455\source\repos\Sabir m. sinif tekrar\Sabir m. sinif tekrar\obj\Debug\net6.0\ref\Sabir m. sinif tekrar.dll
